@@ -18,13 +18,20 @@ You can access the GUI by pressing the "`" or "~" key.
 
 try accessing the site through the [Older](https://trinculo54.github.io/Boxel-rebound-hope/Older/) or [Newer](https://trinculo54.github.io/Boxel-rebound-hope/Newer/)
 
+#### How would I remove the hacks permanently?
+
+Simple, fork the repo and remove hack.js from the version you want!
+```Newer/js/hack.js```
+or
+```Older/js/hack.js
+
   
 ## Authors
 
 - [@Trinculo54](https://www.github.com/Trinculo54)
 
   
-## Recources
+## Credits
 
  - [Hack script from SnowLord7](https://github.com/SnowLord7/Boxel-Rebound-Cheat)
  - [Original Game by DopplerArcade](https://chrome.google.com/webstore/detail/boxel-rebound/iginnfkhmmfhlkagcmpgofnjhanpmklb?hl=en-US)
