@@ -23,7 +23,7 @@ try accessing the site through the [Older](https://trinculo54.github.io/Boxel-re
 Simple, fork the repo and remove hack.js from the version you want!
 ```Newer/js/hack.js```
 or
-```Older/js/hack.js
+```Older/js/hack.js```
 
   
 ## Authors
