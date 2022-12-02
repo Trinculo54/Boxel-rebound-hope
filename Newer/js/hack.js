@@ -174,7 +174,7 @@ var skins = [
 	mouseY = 100,
 	collision = true;
 
-canvas.addEventListener('mousemove', (e) => { mouseY = e.clientY - 5; });
+canvas.addEventListener('mousemove', (e) => { mouseY = e.clientY; });
 
 function exploitLoop() {
 	// Flight
