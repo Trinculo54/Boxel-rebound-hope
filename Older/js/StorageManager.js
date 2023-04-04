@@ -315,7 +315,13 @@
 
         this.hasLicense = function(){
             var hasLicense = localStorage.getItem('license') == 'boxel_rebound_pro';
-            localStorage.setItem("skin_id_0", 1); // enable skin 1 by default
+            localStorage.setItem("skin_id_1", 1); // enable skin 2 by default
+            localStorage.setItem("skin_id_2", 1); // enable skin 3 by default
+            localStorage.setItem("skin_id_3", 1); // enable skin 4 by default
+            localStorage.setItem("skin_id_4", 1); // enable skin 5 by default
+            localStorage.setItem("skin_id_5", 1); // enable skin 6 by default
+            localStorage.setItem("skin_id_6", 1); // enable skin 7 by default
+            localStorage.setItem("skin_id_7", 1); // enable skin 8 by default
             if (hasLicense) this.activateSkins();
             return hasLicense;
         };
